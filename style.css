@@ -4,3 +4,7 @@
     background-color: black;
     margin-top: 4px;
 }
+
+.hamburger-icon:hover {
+    cursor: pointer;
+}
