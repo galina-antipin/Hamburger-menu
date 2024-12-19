@@ -10,5 +10,14 @@
 }
 
 .d-none {
-    display: none;
+    display: none !important;
+}
+
+.hamburger-menu {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    width: 250px;
+    padding: 16px;
+    margin-top: 8px;
 }
